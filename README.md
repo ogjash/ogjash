@@ -84,13 +84,13 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ogjash&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Your GitHub Stats" width="45%" />
 </a>
     <img
-    align="left"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ogjash&theme=dark"
-    alt="ogjash"
-    width="450"
-  />
+      align="center"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=ogjash&theme=dark"
+      alt="ogjash"
+      width="450"
+      style="margin-top: 20px;"
+    />
   
-  <br><br>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogjash&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" alt="Top Languages"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ogjash&theme=radical&utcOffset=5.30" width="45%" alt="Productive Time"/>
