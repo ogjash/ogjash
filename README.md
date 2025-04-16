@@ -80,7 +80,6 @@
 
 <div align="center">
 <br>
-  <a href="https://github.com/ogjash">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ogjash&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Your GitHub Stats" width="45%" />
 </a>
     <img
