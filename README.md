@@ -4,6 +4,8 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9ECF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Creative+Problem+Solver;Open+Source+Enthusiast;Building+Digital+Experiences" alt="Typing SVG" />
+</div>
+
   
 
   <!-- Snake animation -->
@@ -11,21 +13,21 @@
   
   ![snake gif](https://github.com/ExploitEngineer/ExploitEngineer/blob/output/github-snake-dark.svg?color_snake=00abf0&color_dots=DEDEDE)  
 </div>
+<br>
 
 <h1 align="center">
   Hi, I'm Jashan
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px" height="35px">
 </h1>
 
-<div align="left">
-- 🔭 I’m currently working on React.JS, JavaScript, Express, Node.JS, Solana, Web3 <br/>
-- 🌱 I’m currently learning Web3, Solana, Ai/ML...<br/>
-- 👯 I’m looking to collaborate on React.JS, Next.JS, Tailwind, & BootStraps Projects<br/>
-- 🤝 I’m looking for help with Three.JS, Shaders & Next.JS Projects<br/>
-- 👨‍💻 All of my projects are available at [https://github.com/ogjash](https://github.com/ogjash)<br/>
-- 💬 Ask me about HTML, CSS, BootStraps, TailwindCss, JS, TypeScript, Sass, React.JS, Next.JS, Express & Linux etc...<br/>
-- 📫 How to reach me jashanpreet.singh.1004@gmail.com<br/>
-</div>
+- 🔭 I’m currently working on **React.JS, JavaScript, Express, Node.JS, Solana, Web3**
+- 👯 I’m looking to collaborate on **React.JS, Next.JS, Tailwind, & BootStraps** Projects
+- 🤝 I’m looking for help with **Three.JS, Shaders & Next.JS** Projects
+- 👨‍💻 All of my projects are available at https://github.com/ogjash](https://github.com/ogjash)
+- 💬 Ask me about **HTML, CSS, BootStraps, TailwindCss, JS, TypeScript, Sass, React.JS, Next.JS, Express & Linux etc...**
+- 📫 How to reach me **jashanpreet.singh.1004@gmail.com**
+
+
 <br>
   
 <h3 align="left">Languages and Tools:</h3>
