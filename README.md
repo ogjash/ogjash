@@ -17,14 +17,15 @@
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px" height="35px">
 </h1>
 
-
-- 🔭 I’m currently working on **React.JS, JavaScript, Express, Node.JS, Solana, Web3**
-- 🌱 I’m currently learning **Web3, Solana, Ai/ML...**
-- 👯 I’m looking to collaborate on **React.JS, Next.JS, Tailwind, & BootStraps Projects**
-- 🤝 I’m looking for help with **Three.JS, Shaders & Next.JS Projects**
-- 👨‍💻 All of my projects are available at [https://github.com/ogjash](https://github.com/ogjash)
-- 💬 Ask me about **HTML, CSS, BootStraps, TailwindCss, JS, TypeScript, Sass, React.JS, Next.JS, Express & Linux etc...**
-- 📫 How to reach me **jashanpreet.singh.1004@gmail.com**
+<div align="left">
+- 🔭 I’m currently working on **React.JS, JavaScript, Express, Node.JS, Solana, Web3** <br/>
+- 🌱 I’m currently learning **Web3, Solana, Ai/ML...**<br/>
+- 👯 I’m looking to collaborate on **React.JS, Next.JS, Tailwind, & BootStraps Projects**<br/>
+- 🤝 I’m looking for help with **Three.JS, Shaders & Next.JS Projects**<br/>
+- 👨‍💻 All of my projects are available at [https://github.com/ogjash](https://github.com/ogjash)<br/>
+- 💬 Ask me about **HTML, CSS, BootStraps, TailwindCss, JS, TypeScript, Sass, React.JS, Next.JS, Express & Linux etc...**<br/>
+- 📫 How to reach me **jashanpreet.singh.1004@gmail.com**<br/>
+</div>
 <br>
   
 <h3 align="left">Languages and Tools:</h3>
