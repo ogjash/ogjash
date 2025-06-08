@@ -20,13 +20,13 @@
 </h1>
 
 
-- 🔭 I’m currently working on **Next.JS, TypeScript, Express, Node.JS, Three.JS, GLSL**
-- 🌱 I’m currently learning **Angular, TypeScript, Express & Node JS etc....**
+- 🔭 I’m currently working on **React.JS, JavaScript, Express, Node.JS, Solana, Web3**
+- 🌱 I’m currently learning **Web3, Solana, Ai/ML...**
 - 👯 I’m looking to collaborate on **React.JS, Next.JS, Tailwind, & BootStraps Projects**
 - 🤝 I’m looking for help with **Three.JS, Shaders & Next.JS Projects**
-- 👨‍💻 All of my projects are available at [https://github.com/ExploitEngineer](https://github.com/ExploitEngineer)
+- 👨‍💻 All of my projects are available at [https://github.com/ogjash](https://github.com/ogjash)
 - 💬 Ask me about **HTML, CSS, BootStraps, TailwindCss, JS, TypeScript, Sass, React.JS, Next.JS, Express & Linux etc...**
-- 📫 How to reach me **abdulrafay008877@gmail.com**
+- 📫 How to reach me **jashanpreet.singh.1004@gmail.com**
 <br>
   
 <h3 align="left">Languages and Tools:</h3>
@@ -39,8 +39,6 @@
 <br/>
 <br/>
 <br/>
-
-## 📊 GitHub Stats
 
 <h3 align="left">Languages Used:</h3>
 <div align="center">
@@ -65,8 +63,7 @@
 
 <br>
 
-
-## 🤝 Connect with me 
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ijashan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jashan" height="30" width="40"/></a>
   <a href="https://www.instagram.com/thejashanpreetsingh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jashan" height="30" width="40"/></a>
@@ -74,6 +71,9 @@
 </p>
 
   
-  <h3>💖 Thanks for visiting! Let's build something amazing together.</h3>
+<div align="center">
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25&lines=Thank+you+for+visiting!;I'm+waiting+for+you+again!;Have+a+good+day!" alt="Typing SVG" /></a>
+</div>
 </div>
 
