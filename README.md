@@ -76,25 +76,39 @@
 
 </p>
 
+<br/>
+<br/>
+
 ## 📊 GitHub Stats
 
+<h3 align="left">Languages Used:</h3>
 <div align="center">
-<br>
-  <a href="https://github.com/ogjash">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ogjash&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Your GitHub Stats" width="45%" />
-</a>
-    <img
-      align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=ogjash&theme=dark"
-      alt="ogjash"
-      width="450"
-      style="margin-top: 20px;"
-    />
-  
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogjash&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" alt="Top Languages"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ogjash&theme=radical&utcOffset=5.30" width="45%" alt="Productive Time"/>
+    
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ogjash&theme=shadow_blue&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages)
+
+
 </div>
+
+<div align="center">
+    <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=ogjash&rank_icon=github&&theme=shadow_blue&hide_border=false&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&custom_title=GitHub⠀Stats&show_icons=true"/>     
+    </p>
+</div>
+
+<div align="center">
+    
+[![GitHub Streak](https://streak-stats.demolab.com?user=ogjash&theme=shadow_blue&hide_border=false&ring=00abf0&fire=00abf0&currStreakLabel=00abf0&sideNums=00abf0&sideLabels=00abf0&dates=DEDEDE&stroke=00abf0&bg_color=00000000&text_color=DEDEDE)](https://streak-stats.demolab.com/?user=ExploitEngineer)
+</div>
+<br>
+
+<div align="center">
+       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ogjash&layout=compact&theme=shadow_blue&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&hide_border=false&range=all_time">
+    <br> 
+    <br>
+    <a href="https://github.com/ogjash/ogjash"><img alt="Jashan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ogjash&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+</div>
+
+<br>
 
 
 ## 🤝 Connect with me 
