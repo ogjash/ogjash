@@ -18,13 +18,13 @@
 </h1>
 
 <div align="left">
-- 🔭 I’m currently working on **React.JS, JavaScript, Express, Node.JS, Solana, Web3** <br/>
-- 🌱 I’m currently learning **Web3, Solana, Ai/ML...**<br/>
-- 👯 I’m looking to collaborate on **React.JS, Next.JS, Tailwind, & BootStraps Projects**<br/>
-- 🤝 I’m looking for help with **Three.JS, Shaders & Next.JS Projects**<br/>
+- 🔭 I’m currently working on React.JS, JavaScript, Express, Node.JS, Solana, Web3 <br/>
+- 🌱 I’m currently learning Web3, Solana, Ai/ML...<br/>
+- 👯 I’m looking to collaborate on React.JS, Next.JS, Tailwind, & BootStraps Projects<br/>
+- 🤝 I’m looking for help with Three.JS, Shaders & Next.JS Projects<br/>
 - 👨‍💻 All of my projects are available at [https://github.com/ogjash](https://github.com/ogjash)<br/>
-- 💬 Ask me about **HTML, CSS, BootStraps, TailwindCss, JS, TypeScript, Sass, React.JS, Next.JS, Express & Linux etc...**<br/>
-- 📫 How to reach me **jashanpreet.singh.1004@gmail.com**<br/>
+- 💬 Ask me about HTML, CSS, BootStraps, TailwindCss, JS, TypeScript, Sass, React.JS, Next.JS, Express & Linux etc...<br/>
+- 📫 How to reach me jashanpreet.singh.1004@gmail.com<br/>
 </div>
 <br>
   
