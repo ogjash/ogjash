@@ -7,11 +7,9 @@
   
 
   <!-- Snake animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mostpalon3/mostpalon3/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mostpalon3/mostpalon3/output/github-contribution-grid-snake.svg#gh-light-mode-only">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/mostpalon3/mostpalon3/output/github-contribution-grid-snake.svg">
-  </picture>
+<div align="center">
+  
+  ![snake gif](https://github.com/ExploitEngineer/ExploitEngineer/blob/output/github-snake-dark.svg?color_snake=00abf0&color_dots=DEDEDE)  
 </div>
 
 <h1 align="center">
